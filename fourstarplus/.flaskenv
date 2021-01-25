@@ -1,0 +1,2 @@
+FLASK_app=fourstarplus.py
+FLASK_ENV=development
